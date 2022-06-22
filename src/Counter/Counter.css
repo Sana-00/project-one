@@ -1,0 +1,18 @@
+.counter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+
+button{
+    background-color: lightgrey;
+    color: black;
+    padding: 10px 30px;
+}
+.inc{
+    border-top: 5px solid Black;
+    margin-top: 10rem;
+    font-size: 1.5rem;
+}
